@@ -1,3 +1,4 @@
+--SERVER_SV_S
 local life_rr = 0
 RegisterCommand('lfrr',function(source,args,rawCommand)
     local user_id = vRP.getUserId(source)
